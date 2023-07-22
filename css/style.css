@@ -1,0 +1,1076 @@
+#parent1{
+
+display:flex;
+
+}
+
+
+/* box 1 start */
+#heading1{
+
+font-size: 10px;
+font-family:arial;
+text-align:left;
+color:rgb(17, 76, 215);
+margin: 15px;
+padding:10px;
+
+}
+
+#para1{
+
+font-size:15px;
+color:rgba(105, 7, 80, 0.877);
+font-family:arial;
+
+}
+
+.box1
+
+{
+  
+   background-image: url(../Images/coffe\ pen.jpg); 
+
+  background-size: cover;
+
+  background-position: center;
+
+    width:20%;
+
+    margin: 10px 20px 10px 20px;
+    display: inline-block; 
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius:2px ;
+}
+
+.blog1 a{
+ 
+  font-size:15px;
+   font-family:arial;
+color: rgba(168, 9, 216, 0.976);
+width:45%;
+
+text-align:bottom; 
+transition:0.3s;
+
+display:block;
+ text-decoration:none;
+
+
+}
+
+.blog1 a:hover{
+
+background-color: rgba(217, 243, 43, 0.798);
+width:55%;
+
+}
+
+/* box 1 end */
+
+/* box2 start */
+
+#heading2{
+
+font-size: 10px;
+font-family:arial;
+text-align: left;
+color:rgba(142, 215, 227, 0.974);
+margin:15px;
+padding:10px;
+
+}
+
+#para2{
+
+  font-size:15px;
+  color:rgba(171, 138, 237, 0.965);
+  font-family:arial;
+
+
+}
+
+#para3{
+
+  font-size:15px;
+color:rgba(248, 11, 39, 0.978);
+font-family:arial;
+text-decoration: line-through;
+
+
+}
+
+.box2{
+
+  background-image: url(../Images/basket\ style.jpg); 
+
+  background-size: cover;
+
+  background-position: center;
+
+    width:20%;
+
+
+    margin: 10px 20px 10px 20px;
+    display: inline-block; 
+    box-sizing: border-box;
+
+    border: 1px solid black;
+    border-radius:2px ;
+}
+
+
+
+ #para4{
+
+  font-size:15px;
+color:rgb(251, 13, 124);
+font-family:arial;
+
+
+} 
+
+/* box2 end */
+
+/* box3 start */
+
+#heading3
+{
+
+font-size: 10px;
+font-family:arial;
+text-align:left;
+color:rgb(131, 236, 12);
+margin: 15px;
+padding:10px;
+
+}
+
+#para5{
+
+  font-size:15px;
+  color:rgba(105, 7, 80, 0.877);
+  font-family:arial;
+
+
+}
+
+#para6{
+
+font-size:15px;
+color:rgba(248, 11, 39, 0.978);
+font-family:arial;
+text-decoration: line-through;
+
+
+}
+
+#para7{
+
+  font-size:15px;
+color:rgb(251, 13, 124);
+font-family:arial;
+
+}
+
+.box3{
+
+  background-image: url(../Images/hand\ mixer\ cappuccino.jpg); 
+
+  background-size: cover;
+
+  background-position: center;
+
+   width:20%;     /* 300px; */
+
+
+    margin: 10px 20px 10px 20px;
+    display: inline-block; 
+    box-sizing: border-box;
+
+    border: 1px solid black;
+    border-radius:2px ;
+
+
+
+}
+/* box3 end */
+
+/* box4 start */
+
+#heading4
+{
+
+  font-size: 10px;
+  font-family:arial;
+  text-align:left;
+  color:rgb(17, 76, 215);
+  margin: 15px;
+  padding:10px;
+
+
+}
+
+#para8
+{
+
+  font-size:15px;
+  color:rgb(251, 13, 124);
+  font-family:arial;
+
+}
+
+#para9
+{
+  font-size:15px;
+color:rgba(248, 11, 39, 0.978);
+font-family:arial;
+text-decoration: line-through;
+
+}
+
+#para10{
+
+  font-size:15px;
+  color:rgb(251, 13, 124);
+  font-family:arial;
+
+}
+
+.box4{
+
+  background-image: url(../Images/hot-electric\ hand\ mixture.jpg); 
+
+  background-size: cover;
+
+  background-position: center;
+
+    width:20%;
+
+
+    margin: 10px 20px 10px 20px;
+    display: inline-block; 
+    box-sizing: border-box;
+
+    border: 1px solid black;
+    border-radius:2px ;
+
+}
+/* box4 end */
+
+/* box5 start */
+
+#heading5
+{
+
+  font-size: 10px;
+  font-family:arial;
+  text-align:left;
+  color:rgb(17, 76, 215);
+  margin: 15px;
+  padding:10px;
+
+
+}
+
+#para11
+{
+
+  font-size:15px;
+  color:rgb(251, 13, 124);
+  font-family:arial;
+
+}
+
+#para12
+{
+  font-size:15px;
+color:rgba(248, 11, 39, 0.978);
+font-family:arial;
+text-decoration: line-through;
+
+}
+
+#para13{
+
+  font-size:15px;
+  color:rgb(251, 13, 124);
+  font-family:arial;
+
+}
+
+.box5{
+
+  background-image: url(../Images/hand\ mixer.jpg); 
+
+  background-size: cover;
+
+  background-position: center;
+
+    width:20%;
+
+
+    margin: 10px 20px 10px 20px;
+    display: inline-block; 
+    box-sizing: border-box;
+
+    border: 1px solid black;
+    border-radius:2px ;
+
+}
+
+/* box5 end */
+
+
+ #parent2{ 
+
+  display:flex;
+  
+  }
+  
+  
+  /* box 6 start */
+  #heading6{
+  
+  font-size: 10px;
+  font-family:arial;
+  text-align:left;
+  color:rgb(17, 76, 215);
+  margin: 15px;
+  padding:10px;
+  
+  }
+  
+  #para14
+  {
+  
+    font-size:15px;
+    color:rgb(251, 13, 124);
+    font-family:arial;
+  
+  }
+  
+  #para15
+  {
+    font-size:15px;
+  color:rgba(248, 11, 39, 0.978);
+  font-family:arial;
+  text-decoration: line-through;
+  
+  }
+  
+  #para16{
+  
+    font-size:15px;
+    color:rgb(251, 13, 124);
+    font-family:arial;
+  
+  }
+  
+  .box6
+  
+  {
+    
+     background-image: url(https://static-01.daraz.com.bd/p/6125dcaad1bb780d943fd4f987dcebc7.jpg); 
+  
+    background-size: cover;
+  
+    background-position: center;
+  
+      width:20%;  /*165px; */
+  
+      margin: 10px 20px 10px 20px;
+      display: inline-block; 
+      box-sizing: border-box;
+      border: 1px solid black;
+      border-radius:2px ;
+  }
+  
+  .blog2 a{
+   
+    font-size:15px;
+     font-family:arial;
+  color: rgba(168, 9, 216, 0.976);
+  width:45%;
+  
+  text-align:bottom; 
+  transition:0.3s;
+  
+  display:block;
+   text-decoration:none;
+  
+  
+  }
+  
+  .blog2 a:hover{
+  
+  background-color: rgba(217, 243, 43, 0.798);
+  width:55%;
+  
+  }
+  
+  /* box 6 end */
+
+  /* box 7 start */
+
+  #heading7{
+  
+    font-size: 10px;
+    font-family:arial;
+    text-align:left;
+    color:rgb(17, 76, 215);
+    margin: 15px;
+    padding:10px;
+    
+    }
+    
+    #para17
+    {
+    
+      font-size:15px;
+      color:rgb(251, 13, 124);
+      font-family:arial;
+    
+    }
+    
+    #para18
+    {
+      font-size:15px;
+    color:rgba(248, 11, 39, 0.978);
+    font-family:arial;
+    text-decoration: line-through;
+    
+    }
+    
+    #para19{
+    
+      font-size:15px;
+      color:rgb(251, 13, 124);
+      font-family:arial;
+    
+    }
+    
+    .box7
+    
+    {
+      
+background-image: url(https://static-01.daraz.com.bd/p/7fe68fd3e0cd11103ccadaca00edfe9f.jpg); 
+    
+background-size: cover;
+    
+background-position: center;
+    
+ width:20%; /*165px; */
+    
+margin: 10px 20px 10px 20px;
+display: inline-block; 
+ box-sizing: border-box;
+  border: 1px solid black;
+ border-radius:2px ;
+    }
+    
+  /* box 7 end */
+
+    /* box 8 start */
+
+    #heading8{
+  
+      font-size: 10px;
+      font-family:arial;
+      text-align:left;
+      color:rgb(17, 76, 215);
+      margin: 15px;
+      padding:10px;
+      
+      }
+      
+      #para20
+      {
+      
+        font-size:15px;
+        color:rgb(251, 13, 124);
+        font-family:arial;
+      
+      }
+      
+      #para21
+      {
+        font-size:15px;
+      color:rgba(248, 11, 39, 0.978);
+      font-family:arial;
+      text-decoration: line-through;
+      
+      }
+      
+      #para22{
+      
+        font-size:15px;
+        color:rgb(251, 13, 124);
+        font-family:arial;
+      
+      }
+      
+      .box8
+      
+      {
+        
+  background-image: url(https://static-01.daraz.com.bd/p/d38c65d2d91ab3dc75d1688f384867af.jpg); 
+      
+  background-size: cover;
+      
+  background-position: center;
+      
+   width:20%; /*165px; */
+      
+  margin: 10px 20px 10px 20px;
+  display: inline-block; 
+   box-sizing: border-box;
+    border: 1px solid black;
+   border-radius:2px ;
+      }
+      
+    /* box 8 end */
+  
+
+
+  /* box 9 start */
+
+  #heading9{
+  
+    font-size: 10px;
+    font-family:arial;
+    text-align:left;
+    color:rgb(17, 76, 215);
+    margin: 15px;
+    padding:10px;
+    
+    }
+    
+    #para23
+    {
+    
+      font-size:15px;
+      color:rgb(251, 13, 124);
+      font-family:arial;
+    
+    }
+    
+    #para24
+    {
+      font-size:15px;
+    color:rgba(248, 11, 39, 0.978);
+    font-family:arial;
+    text-decoration: line-through;
+    
+    }
+    
+    #para25{
+    
+      font-size:15px;
+      color:rgb(251, 13, 124);
+      font-family:arial;
+    
+    }
+    
+    .box9
+    
+    {
+      
+background-image: url(https://static-01.daraz.com.bd/p/7210decd151ce834d0941e2172aeb9ff.jpg); 
+    
+background-size: cover;
+    
+background-position: center;
+    
+width: 20%;
+/* 165px; */
+    
+margin: 10px 20px 10px 20px;
+display: inline-block; 
+ box-sizing: border-box;
+  border: 1px solid black;
+ border-radius:2px ;
+    }
+    
+  /* box 9 end */
+
+
+
+  /* box 10 start */
+
+  #heading10{
+  
+    font-size: 10px;
+    font-family:arial;
+    text-align:left;
+    color:rgb(17, 76, 215);
+    margin: 15px;
+    padding:10px;
+    
+    }
+    
+    #para26
+    {
+    
+      font-size:15px;
+      color:rgb(251, 13, 124);
+      font-family:arial;
+    
+    }
+    
+    #para27
+    {
+      font-size:15px;
+    color:rgba(248, 11, 39, 0.978);
+    font-family:arial;
+    text-decoration: line-through;
+    
+    }
+    
+    #para28{
+    
+      font-size:15px;
+      color:rgb(251, 13, 124);
+      font-family:arial;
+    
+    }
+    
+    .box10
+    
+    {
+      
+background-image: url(https://static-01.daraz.com.bd/p/1ecdf6e59043a4f4abc719961172d40b.jpg); 
+    
+background-size: cover;
+    
+background-position: center;
+    
+width:20% ;
+/* 165px; */
+    
+margin: 10px 20px 10px 20px;
+display: inline-block; 
+ box-sizing: border-box;
+  border: 1px solid black;
+ border-radius:2px;
+
+    }
+    
+  /* box 10 end */
+
+  /* box11 start */
+
+  #parent3{ 
+
+    display:flex;
+
+    
+   
+    
+  }
+
+    /* box11 start */
+
+    
+
+    
+    .box11 img {
+
+        background-size: cover;
+          
+      background-position:bottom;
+          
+      width:19%;
+
+          
+      margin: 10px 20px 10px 20px; 
+      display: inline-block; 
+       box-sizing: border-box;
+        border: 1px solid black;
+       border-radius:2px;
+
+       font-family:arial;
+      
+    }
+
+
+      
+    #para30
+    {
+    
+     display: inline-block; 
+      
+      
+      color: #7a7d85;
+      font-size: 1rem;
+      line-height: 1.5rem;
+
+      width: 120px;
+            
+      font-family:arial;
+      
+      font-weight: bold;
+     text-align:left;
+     /* margin:10px 0px 10px 20px;  */
+     /* text-align:justify;  */
+     /* box-sizing: border-box; */
+   
+    
+    }
+  
+  
+       
+    
+
+  #para29  a{ 
+ 
+
+      color: #404145;
+      
+  width:120px;
+  
+  display:inline-block;
+  
+      /* margin:10px 10px 20px 0px;  */
+      font-size: 1.2rem;
+      font-weight: 600;
+      line-height: 1.75rem;
+      text-decoration: none;
+    font-family:cursive;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    /*color: #404145;
+     
+width:20%;
+
+display:inline;
+
+    margin:10px 10px 20px 0px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.75rem; 
+    text-decoration: none;
+  font-family:cursive;
+    text-align:left; 
+box-sizing: border-box;  
+} */
+
+      /* font-size:15px; 
+       font-family:arial;
+    color: rgba(168, 9, 216, 0.976);
+    width:20%;
+    
+    text-align:bottom; 
+    transition:0.3s;
+
+    margin: 10px 20px 10px 20px;
+    display:block;
+     text-decoration:none;
+ } */
+     
+
+
+    
+    
+   
+
+    .box12 img{
+
+      background-size: cover;
+          
+      background-position:bottom;
+          
+      width:120px;
+
+          
+       margin:10px 20px 10px 20px;
+       display: inline-block;  
+       box-sizing: border-box;
+        border: 1px solid black;
+       border-radius:2px;
+       text-align:center;
+
+       font-family:arial; 
+
+       /* font-size: 1.2rem; 
+       font-weight: 600;
+       line-height: 1.75rem;
+       text-decoration: none;
+      */
+    }
+
+
+   /* color: #404145;
+      width:20%;
+      margin: 10px 20px 10px 20px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      line-height: 1.75rem;
+      text-decoration: none; */
+
+
+
+
+      #para31  a{ 
+
+        color: #404145;
+        
+    width: 120px;
+    
+    display:inline-block;
+    
+       margin: 30px 10px;  
+        font-size: 1.2rem; 
+        font-weight: 600;
+        line-height: 1.75rem;
+        text-decoration: none;
+      font-family:cursive;
+      text-align: left;
+      }
+
+     #para32 
+      {
+      
+        display: inline-block; 
+        
+        
+        color: #7a7d85;
+        font-size: 1rem;
+        line-height: 1.5rem;
+  
+        width: 120px;
+              
+        font-family:arial;
+        
+        font-weight: bold;
+        /* margin:auto; */
+       /* margin:10px 10px 20px 0px; */
+        text-align:left;  
+       /* box-sizing: border-box; */
+     
+      
+      }
+
+      .box13 img{
+
+
+        background-size: cover;
+          
+        background-position:bottom;
+            
+        width:120px;
+  
+            
+        margin:10px 20px 10px 20px; 
+         display: inline-block;  
+         box-sizing: border-box;
+          border: 1px solid black;
+         border-radius:2px;
+         text-align:center;
+  
+         font-family:arial; 
+  
+         /* font-size: 1.2rem; 
+         font-weight: 600;
+         line-height: 1.75rem;
+         text-decoration: none;
+        */
+      }
+
+
+
+
+      
+
+      #para33 a{
+
+        color: #404145;
+        
+        width:120px;
+        
+        display:inline-block;
+        
+           margin:30px 10px;  
+            font-size: 1.2rem; 
+            font-weight: 600;
+            line-height: 1.75rem;
+            text-decoration: none;
+          font-family:cursive;
+          text-align: left;
+
+
+      }
+
+      #para34{
+
+
+        display: inline-block; 
+        
+        
+        color: #7a7d85;
+        font-size: 1rem;
+        line-height: 1.5rem;
+  
+        width: 120px;
+              
+        font-family:arial;
+        
+        font-weight: bold;
+        margin: 30px 10px; 
+       /* margin:10px 10px 20px 0px; */
+        text-align:left;  
+
+
+
+
+      }
+
+
+      .box14 img{
+
+
+        background-size: cover;
+          
+        background-position:bottom;
+            
+        width:120px;
+  
+            
+        margin:10px 20px 10px 20px;
+         display: inline-block;  
+         box-sizing: border-box;
+          border: 1px solid black;
+         border-radius:2px;
+         text-align:center;
+  
+         font-family:arial; 
+  
+         /* font-size: 1.2rem; 
+         font-weight: 600;
+         line-height: 1.75rem;
+         text-decoration: none;
+        */
+      }
+
+
+      #para35 a{
+
+        color: #404145;
+        
+        width:120px;
+        
+        display:inline-block;
+        
+           margin: 30px 10px;  
+            font-size: 1.2rem; 
+            font-weight: 600;
+            line-height: 1.75rem;
+            text-decoration: none;
+          font-family:cursive;
+          text-align: left;
+
+
+      }
+      #para36{
+
+
+        display: inline-block; 
+        
+        
+        color: #7a7d85;
+        font-size: 1rem;
+        line-height: 1.5rem;
+  
+        width: 120px;
+              
+        font-family:arial;
+        
+        font-weight: bold;
+        /* margin:auto; */
+       /* margin:10px 10px 20px 0px; */
+        text-align:left;  
+
+
+
+
+      }
+
+      .box15 img{
+
+
+        background-size: cover;
+          
+        background-position:bottom;
+            
+        width:120px;
+  
+            
+         margin:10px 20px 10px 20px ; 
+         display: inline-block;  
+         box-sizing: border-box;
+          border: 1px solid black;
+         border-radius:2px;
+         text-align:center;
+  
+         font-family:arial; 
+  
+         /* font-size: 1.2rem; 
+         font-weight: 600;
+         line-height: 1.75rem;
+         text-decoration: none;
+        */
+      }
+
+      #para37 a{
+
+        color: #404145;
+        
+        width:120px;
+        
+        display:inline-block;
+        
+           margin: 30px 0px;  
+            font-size: 1.2rem; 
+            font-weight: 600;
+            line-height: 1.75rem;
+            text-decoration: none;
+          font-family:cursive;
+          text-align: left;
+
+
+      }
+
+      #para38{
+
+
+        display: inline-block; 
+        
+        
+        color: #7a7d85;
+        font-size: 1rem;
+        line-height: 1.5rem;
+  
+        width:120px;
+              
+        font-family:arial;
+        
+        font-weight: bold;
+        /* margin:auto; */
+       /* margin:10px 10px 20px 0px; */
+        text-align:left;  
+
+
+
+
+      }
